@@ -28,4 +28,11 @@ const receitas = [
 		tempo: "40 min",
 		dificuldade: "Fácil",
 	},
+	{
+		titulo: "Strogonoff de Frango Avançado",
+		imagem: "https://superprix.vteximg.com.br/arquivos/ids/171812-600-600/Strogonoff-de-Frango-Sadia-550g.jpg?v=636094628091630000",
+		descricao: "Clássico prato brasileiro com frango cremoso e um toque de ketchup e mostarda. de forma muito avançada e difícil de se fazer.",
+		tempo: "5 min",
+		dificuldade: "Muito difícil",
+	},
 ];
