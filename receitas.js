@@ -28,4 +28,11 @@ const receitas = [
 		tempo: "40 min",
 		dificuldade: "Fácil",
 	},
+	{
+		titulo: "Brownie",
+		imagem: "https://jonesinfortaste.com/wp-content/uploads/2019/10/Black-Cat-Brownies-PROCESS-2.jpg",
+		descricao: "Brownie de chocolate com cobertura de caramelo em um formato muito diferenciado.",
+		tempo: "50 min",
+		dificuldade: "Média",
+	},
 ];
