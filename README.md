@@ -1,8 +1,3 @@
-Aqui está um **README.md** completo, bonito e direto ao ponto — ideal para GitHub ou portfólio:
-
----
-
-```markdown
 # 🍳 Receitas Deliciosas
 
 Um site simples e elegante para exibir uma lista de receitas culinárias.  
@@ -110,9 +105,4 @@ Algumas ideias para evolução do projeto:
 > “Cozinhar é criar com amor algo que nutre corpo e alma.”
 > – Receitas Deliciosas 🍰
 
-```
-
----
-
-Quer que eu monte uma **versão do README em inglês** também (para deixar o projeto bilíngue no GitHub)?
 ```

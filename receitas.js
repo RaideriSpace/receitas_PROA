@@ -1,0 +1,31 @@
+// Adicione suas receitas manualmente aqui!
+const receitas = [
+	{
+		titulo: "Bolo de Cenoura com Cobertura de Chocolate",
+		imagem: "https://i.imgur.com/YFyz0Yj.jpg",
+		descricao: "Um bolo fofinho e saboroso com cobertura cremosa de chocolate, perfeito para o café da tarde.",
+		tempo: "45 min",
+		dificuldade: "Fácil",
+	},
+	{
+		titulo: "Lasanha à Bolonhesa",
+		imagem: "https://i.imgur.com/wCk5Tuk.jpg",
+		descricao: "Camadas de massa, molho bolonhesa e queijo gratinado, o verdadeiro clássico italiano.",
+		tempo: "1h 10min",
+		dificuldade: "Médio",
+	},
+	{
+		titulo: "Torta de Limão",
+		imagem: "https://i.imgur.com/vH2bBvJ.jpg",
+		descricao: "Base crocante, recheio cremoso de limão e cobertura leve de merengue. Doce e cítrica na medida certa.",
+		tempo: "50 min",
+		dificuldade: "Fácil",
+	},
+	{
+		titulo: "Strogonoff de Frango",
+		imagem: "https://i.imgur.com/kffr8M7.jpg",
+		descricao: "Clássico prato brasileiro com frango cremoso e um toque de ketchup e mostarda.",
+		tempo: "40 min",
+		dificuldade: "Fácil",
+	},
+];
