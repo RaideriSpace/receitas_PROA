@@ -34,5 +34,12 @@ const receitas = [
 		descricao: "Clássico prato brasileiro com frango cremoso e um toque de ketchup e mostarda. de forma muito avançada e difícil de se fazer.",
 		tempo: "5 min",
 		dificuldade: "Muito difícil",
+ },
+{
+		titulo: "Brownie",
+		imagem: "https://jonesinfortaste.com/wp-content/uploads/2019/10/Black-Cat-Brownies-PROCESS-2.jpg",
+		descricao: "Brownie de chocolate com cobertura de caramelo em um formato muito diferenciado.",
+		tempo: "50 min",
+		dificuldade: "Média",
 	},
 ];
