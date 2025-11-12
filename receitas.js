@@ -54,5 +54,11 @@ const receitas = [
 		descricao: "Torta de maça muito top, boa mesmo, doce e bem cheirosa com bastante maça e bem saudável também.",
 		tempo: "38 min",
 		dificuldade: "Média",
+  },{
+		titulo: "Macarrão com Salsicha",
+		imagem: "https://www.sabornamesa.com.br/media/k2/items/cache/3f6926ce145b6fd2c270d507ee89d5ef_XL.jpg",
+		descricao: "Espaguete com Salsicha e Creme de leite",
+		tempo: "30 min",
+		dificuldade: "Fácil",
 	},
 ];
