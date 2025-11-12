@@ -34,12 +34,19 @@ const receitas = [
 		descricao: "Clássico prato brasileiro com frango cremoso e um toque de ketchup e mostarda. de forma muito avançada e difícil de se fazer.",
 		tempo: "5 min",
 		dificuldade: "Muito difícil",
- },
-{
+	},
+	{
 		titulo: "Brownie",
 		imagem: "https://jonesinfortaste.com/wp-content/uploads/2019/10/Black-Cat-Brownies-PROCESS-2.jpg",
 		descricao: "Brownie de chocolate com cobertura de caramelo em um formato muito diferenciado.",
 		tempo: "50 min",
+		dificuldade: "Média",
+	},
+	{
+		titulo: "Torta de Maça",
+		imagem: "https://cdn.urbano.com.br/uploads/ubn002-19h-segmentos-ubn-setembro-v2-culturanacozinha-1-800.jpg",
+		descricao: "Torta de maça muito top, boa mesmo, doce e bem cheirosa com bastante maça e bem saudável também.",
+		tempo: "38 min",
 		dificuldade: "Média",
 	},
 ];
