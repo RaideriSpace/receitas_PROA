@@ -42,4 +42,11 @@ const receitas = [
 		tempo: "50 min",
 		dificuldade: "Média",
 	},
+{
+		titulo: "Fricassê de frango",
+		imagem: "https://receitatodahora.com.br/wp-content/uploads/2024/11/fricasse-frango-1311-1200x900.jpg",
+		descricao: "Fricassê de frango numa travessa com batata palha",
+		tempo: "30 min",
+		dificuldade: "Fácil",
+	},
 ];
