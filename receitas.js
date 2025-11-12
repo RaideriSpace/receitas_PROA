@@ -7,6 +7,15 @@ const receitas = [
 		tempo: "45 min",
 		dificuldade: "Fácil",
 	},
+
+	{
+		titulo: "Coxinha de frango",
+		imagem: "https://i.imgur.com/YFyz0Yj.jpg",
+		descricao: "Frango temperado em uma massa deliciosa!!",
+		tempo: "45 min",
+		dificuldade: "Fácil",
+	},
+
 	{
 		titulo: "Lasanha à Bolonhesa",
 		imagem: "https://i.imgur.com/wCk5Tuk.jpg",
