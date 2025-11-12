@@ -42,4 +42,11 @@ const receitas = [
 		tempo: "50 min",
 		dificuldade: "Média",
 	},
+{
+		titulo: "Feijoada",
+		imagem: "https://static.itdg.com.br/images/360-240/4183f4a52eadb0d86eed283e54e0020c/355811-original.jpg",
+		descricao: "Feijoada Brasileira Raiz, com Feijão Preto, Carne de Porco, Torresmo e Salada de Couve, para matar a fome e se alegrar com seus amigos e entes queridos num sábado cheio de sol e muito amor",
+		tempo: "120 min",
+		dificuldade: "Difícil",
+	},
 ];
