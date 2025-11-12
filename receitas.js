@@ -48,5 +48,11 @@ const receitas = [
 		descricao: "Torta Nova de maça muito top, boa mesmo, doce e bem cheirosa com bastante maça e bem saudável também.",
 		tempo: "48 min",
 		dificuldade: "Média + 2",
+  }, {
+		titulo: "Torta de Maça",
+		imagem: "https://cdn.urbano.com.br/uploads/ubn002-19h-segmentos-ubn-setembro-v2-culturanacozinha-1-800.jpg",
+		descricao: "Torta de maça muito top, boa mesmo, doce e bem cheirosa com bastante maça e bem saudável também.",
+		tempo: "38 min",
+		dificuldade: "Média",
 	},
 ];
