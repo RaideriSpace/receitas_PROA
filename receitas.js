@@ -93,10 +93,10 @@ const receitas = [
   },
   {
     titulo: "Mousse de Maracujá",
-    imagem: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNZnw4cf5bIv_Og-FoB3RecVCZltYQ8pz4MRI63Q4oxqeAmABLpv5ltc3YrDZ9ri9zlgq9tBrIfPZsjdkHQ7EWR_3LsHPGI_EL68OH-hnU&s=10",
-    descricao: "Lasanha de carne moída com bastante queijo e molho de tomate caseiro.",
-    tempo: "1h 30min",
-    dificuldade: "Médio",
+    imagem: "https://pilotandofogao.com.br/wp-content/uploads/2024/08/Mousse-de-maracuja-com-chocolate-1024x683.jpg",
+    descricao: "Mousse de Maracujá com cobertura de chocolate meio amargo.",
+    tempo: "20min",
+    dificuldade: "Fácil",
 
   }, 
 ];
