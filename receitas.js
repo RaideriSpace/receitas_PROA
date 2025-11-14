@@ -43,3 +43,4 @@ const receitas = [
 		dificuldade: "Média",
 	},
 ];
+
