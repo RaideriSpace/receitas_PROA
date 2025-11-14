@@ -91,6 +91,15 @@ const receitas = [
     dificuldade: "Médio",
 
   },
+  
+   {
+    titulo: "Brigadeiro de leite em pó",
+    imagem: "https://www.sabornamesa.com.br/media/k2/items/cache/47c7908f410a4c7b8f3a344eff4058f1_XL.jpg",
+    descricao: "huuum brigadeiro de leite em pó, uma delícia para qualquer ocasião.",
+    tempo: "30min",
+    dificuldade: "Facil",
+  },
+  
   {
     titulo: "Mousse de Maracujá",
     imagem: "https://pilotandofogao.com.br/wp-content/uploads/2024/08/Mousse-de-maracuja-com-chocolate-1024x683.jpg",
@@ -99,4 +108,6 @@ const receitas = [
     dificuldade: "Fácil",
 
   }, 
+
+
 ];
