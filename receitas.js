@@ -91,4 +91,12 @@ const receitas = [
     dificuldade: "Médio",
 
   },
+  {
+    titulo: "Mousse de Maracujá",
+    imagem: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNZnw4cf5bIv_Og-FoB3RecVCZltYQ8pz4MRI63Q4oxqeAmABLpv5ltc3YrDZ9ri9zlgq9tBrIfPZsjdkHQ7EWR_3LsHPGI_EL68OH-hnU&s=10",
+    descricao: "Lasanha de carne moída com bastante queijo e molho de tomate caseiro.",
+    tempo: "1h 30min",
+    dificuldade: "Médio",
+
+  }, 
 ];
