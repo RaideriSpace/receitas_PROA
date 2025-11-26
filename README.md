@@ -33,16 +33,16 @@ meu_projeto/
 ├── receitas.js       # Arquivo com as receitas cadastradas manualmente
 └── script.js         # Lógica de exibição e interação
 
-````
+```
 
 ---
 
 ## ⚙️ Como Usar
 
 1. **Baixe ou clone o repositório:**
-   ```bash
-   git clone https://github.com/seuusuario/receitas-deliciosas.git
-````
+    ```bash
+   git clone https://github.com/RaideriSpace/receitas-deliciosas.git
+    ```
 
 2. **Abra o projeto:**
    Basta abrir o arquivo `index.html` no navegador.
@@ -98,11 +98,11 @@ Algumas ideias para evolução do projeto:
 
 **Lucas Alves Pinheiro**
 🎨 UX/UI Designer & Front-end Developer
-💻 [GitHub](https://github.com/seuusuario) | 🌐 [Portfolio](#)
+💻 [GitHub](https://github.com/RaideriSpace) | 🌐 [Portfolio](#)
 
 ---
 
 > “Cozinhar é criar com amor algo que nutre corpo e alma.”
 > – Receitas Deliciosas 🍰
 
-```
+![GitHub last commit](https://img.shields.io/github/last-commit/RaideriSpace/receitas_PROA)
